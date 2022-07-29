@@ -1,6 +1,7 @@
 {
   "name": "mohammed-aljasem-geeks-task",
   "version": "0.1.0",
+  "homepage": "https://mohammed-aljasem.github.io/AG-Grid-Test",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -9,16 +10,20 @@
     "ag-grid-community": "^28.0.2",
     "ag-grid-react": "^28.0.0",
     "faker": "^6.6.6",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "save-dev": "^0.0.1-security",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
