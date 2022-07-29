@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ag-grid/static/css/main.6e575619.css",
-    "main.js": "/ag-grid/static/js/main.df886e7c.js",
-    "static/js/787.945f452e.chunk.js": "/ag-grid/static/js/787.945f452e.chunk.js",
-    "index.html": "/ag-grid/index.html",
-    "main.6e575619.css.map": "/ag-grid/static/css/main.6e575619.css.map",
-    "main.df886e7c.js.map": "/ag-grid/static/js/main.df886e7c.js.map",
-    "787.945f452e.chunk.js.map": "/ag-grid/static/js/787.945f452e.chunk.js.map"
+    "main.css": "/AG-Grid-Test/static/css/main.6e575619.css",
+    "main.js": "/AG-Grid-Test/static/js/main.eab00555.js",
+    "static/js/787.945f452e.chunk.js": "/AG-Grid-Test/static/js/787.945f452e.chunk.js",
+    "index.html": "/AG-Grid-Test/index.html",
+    "main.6e575619.css.map": "/AG-Grid-Test/static/css/main.6e575619.css.map",
+    "main.eab00555.js.map": "/AG-Grid-Test/static/js/main.eab00555.js.map",
+    "787.945f452e.chunk.js.map": "/AG-Grid-Test/static/js/787.945f452e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e575619.css",
-    "static/js/main.df886e7c.js"
+    "static/js/main.eab00555.js"
   ]
 }
